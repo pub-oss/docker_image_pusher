@@ -1,9 +1,19 @@
 # infra
+registry.k8s.io/pause:3.9
+traefik:v2.10
+traefik/whoami
 coredns/coredns:1.8.6
+flannel/flannel:v0.24.4
+flannel/flannel-cni-plugin:v1.2.0
+
+
 #nginx
 
+# huaxiongcooldocker
+huaxiongcooldocker/container-devel
+
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 
 #xhofe/alist:latest
 #支持指定架构
