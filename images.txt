@@ -20,7 +20,7 @@ bitnami/php-fpm:5.6.40
 bitnami/zookeeper:latest
 bufbuild/buf:1.30.0
 busybox:latest
-bytebase/bytebase:2.13.2
+bytebase/bytebase:2.22.2
 composer:latest
 containous/whoami:latest
 curlimages/curl:7.79.1
