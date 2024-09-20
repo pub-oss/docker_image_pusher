@@ -8,7 +8,7 @@ flannel/flannel-cni-plugin:v1.2.0
 
 # huaxiongcooldocker
 huaxiongcooldocker/container-devel
-
+huaxiongcooldocker/devcontainers:navicat16-root
 
 # base
 alpine:3.15.0
